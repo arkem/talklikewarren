@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import twitter
 import tweepy
 import urllib2
 import time
