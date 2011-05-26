@@ -8,11 +8,10 @@ import random
 
 random.seed()
 
-# CREDENTIALS FOR REFERENCE "talklikewarren", "crooked0little0vein"
-CONSUMER_KEY = "3QaD3dIS6p34alezA6qw1Q"
-CONSUMER_SECRET = "ktic1IvdWVE4iDg8yLSthJT5NNK6BsRGhwCAaJKGU"
-TOKEN_KEY = "69410961-uFltGP7XbWQZrU9uj8JRPuvtZzsmhvbC9cB0LpcAH"
-TOKEN_SECRET = "VD0yKqhK6AnWVHMNaJGzdJRCvfp00ZMMgZZOXjkhqI"
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+TOKEN_KEY = ""
+TOKEN_SECRET = ""
 
 MIN_WAIT = 60 # In minutes
 MAX_WAIT = 6 * 60
